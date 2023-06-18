@@ -8,7 +8,4 @@
 NuclearBiologica/NuclearBiologica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-可以显示中文？太好了！中国朋友大家好！我是核武7的粉丝，这是我的资料。
-
-<---- thirteen
-(Always.)
+九五至尊！
